@@ -1,6 +1,6 @@
-# Jifeng Chen's 6.1P: Creating a Kubernetes Cluster for a containerized application
+# Jifeng Chen's 6.2C: Cloud Native Application Development Interacting with Kubernetes
 
-This is the Jifeng Chen's implementation of SIT323 6.1P
+This is the Jifeng Chen's implementation of SIT323 6.2C
 
 To utilize this demonstration, please follow the steps below:
 
